@@ -1,0 +1,4 @@
+You come into a forest and find yourself at an impasse...There are two paths to choose from. To the left is Tristonia. and to the right is Chrissyvale.,2
+The world seems dark. You can barely make out a small shack in the distance. ,3
+This is a fourth option.,5
+This is the real fourth option!,51
